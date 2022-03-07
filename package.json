@@ -1,0 +1,10 @@
+{
+  "name": "letters-squared",
+  "version": "0.0.0",
+  "description": "Letter tiles for word games.",
+  "main": "index.js",
+  "repository": "https://github.com/Philip-Nicolas/letters-squared",
+  "author": "Philip-Nicolas <philnic.varga@mail.utoronto.ca>",
+  "license": "MIT",
+  "private": false
+}
