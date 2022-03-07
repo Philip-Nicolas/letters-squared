@@ -1,5 +1,5 @@
 {
-  "name": "letters-squared",
+  "name": "@phil.nic/letters-squared",
   "version": "0.0.0",
   "description": "Letter tiles for word games.",
   "main": "index.js",
